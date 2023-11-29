@@ -1,0 +1,26 @@
+.card{
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 6px 6px 12px rgb(160,160,160) ;
+    /* background-color: rgb(82, 109, 27); */
+    background-color: rgb(211,211,211);
+    /* background-image: linear-gradient(180deg, #7bb2d9 0%, #195ba7 57%, #000917 100%); */
+
+    
+}
+
+
+.card-body{
+    color: rgb(0, 0, 0);
+}
+
+.btn{
+    /* background-image: linear-gradient(to right, #000428 0%, #005eb1  1%, #000428  100%) */
+    /* background-color: rgb(37, 61, 6); */
+    background-color: #003B73;
+    font-weight: bold;
+}
+.text-muted {
+    --bs-text-opacity: 1;
+    color: rgb(0, 0, 0)!important;
+}
